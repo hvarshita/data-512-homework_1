@@ -35,12 +35,23 @@ We use the PageviewsAPI to extract subsets of data and store the intermediate da
   - LICENSE
   - README.md
 
-  ### Description
+## Description
 1. code : This directory contains the code file : hcds_data_acquisition_analysis.ipynb for data acquistion, generating intermediate data files and analysing them
 2. data : The data directory stores data files used for analysis. It includes JSON files (academy_monthly_cumulative_201507-202309.json, academy_monthly_desktop_201507-202309.json, academy_monthly_mobile_201507-202309.json) and an Excel file (thank_the_academy.AUG.2023.csv.xlsx) which contains the list of articles for which the json data has to be fetched.
 3. images : This directory stores the graphs produced after performing data analysis
 4. LICENSE : This file contains the licensing information about the project - MIT License
 5. README.md : Provides an overview of project, data sources, instructions for use and general structure of the repository. 
+
+## Results 
+![Minimum and Maximum average](images/min_max_avg.png)
+![Top 10 Peak Page Views](images/images/min_max_avg.png)
+![Fewest Months of Data](images/images/fewest_months_data.png)
+
+## Usage
+1. Clone the repository to your local machine.
+2. Ensure you have the required dependencies installed, see Required libraries.
+3. Replace any data files path with your local path.
+4. Run the provided Python script.
 
 
 
