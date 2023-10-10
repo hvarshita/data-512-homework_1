@@ -44,8 +44,8 @@ We use the PageviewsAPI to extract subsets of data and store the intermediate da
 
 ## Results 
 ![Minimum and Maximum average](images/min_max_avg.png)
-![Top 10 Peak Page Views](images/images/min_max_avg.png)
-![Fewest Months of Data](images/images/fewest_months_data.png)
+![Top 10 Peak Page Views](images/min_max_avg.png)
+![Fewest Months of Data](images/fewest_months_data.png)
 
 ## Usage
 1. Clone the repository to your local machine.
