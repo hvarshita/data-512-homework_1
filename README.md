@@ -11,15 +11,13 @@ To gather the necessary data, the project utilizes the Pageviews Wikipedia API t
 * [Wikimedia Foundation REST API terms of use](https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions)
 
 ## Required Libraries:
-matplotlib
+Required Libraries:
+- matplotlib
+- urllib
+- requests
+- json
+- time
 
-urlib
-
-requests
-
-json
-
-time
 
 ## Repository Structure:
 - Root
