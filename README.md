@@ -43,8 +43,11 @@ We use the PageviewsAPI to extract subsets of data and store the intermediate da
 5. README.md : Provides an overview of project, data sources, instructions for use and general structure of the repository. 
 
 ## Results 
+-Minimum and Maximum average
 ![Minimum and Maximum average](images/min_max_avg.png)
+-Top 10 Peak Page Views
 ![Top 10 Peak Page Views](images/top_10_peak_page_views.png)
+-Fewest Months of Data
 ![Fewest Months of Data](images/fewest_months_data.png)
 
 ## Usage
