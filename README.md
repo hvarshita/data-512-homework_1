@@ -22,19 +22,20 @@ json
 time
 
 ## Repository Structure:
-├── code
-│   ├── hcds_data_acquisition_analysis.ipynb
-├── data
-│   ├── academy_monthly_cumulative_201507-202309.json
-│   ├── academy_monthly_desktop_201507-202309.json
-│   ├── academy_monthly_mobile_201507-202309.json
-│   ├── thank_the_academy.AUG.2023.csv.xlsx
-├── images
-│   ├── fewest_months_data.png
-│   ├── min_max_avg.png
-│   ├── top_10_peak_page_views.png
-├── LICENSE
-├── README.md
+- Root
+  - code
+    - hcds_data_acquisition_analysis.ipynb
+  - data
+    - academy_monthly_cumulative_201507-202309.json
+    - academy_monthly_desktop_201507-202309.json
+    - academy_monthly_mobile_201507-202309.json
+    - thank_the_academy.AUG.2023.csv.xlsx
+  - images
+    - fewest_months_data.png
+    - min_max_avg.png
+    - top_10_peak_page_views.png
+  - LICENSE
+  - README.md
 
 
 
