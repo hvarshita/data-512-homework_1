@@ -22,7 +22,7 @@ json
 time
 
 ## Repository Structure:
-├── 
+├── code
 │   ├── hcds_data_acquisition_analysis.ipynb
 ├── data
 │   ├── academy_monthly_cumulative_201507-202309.json
@@ -35,6 +35,7 @@ time
 │   ├── top_10_peak_page_views.png
 ├── LICENSE
 ├── README.md
+
 
 
 
