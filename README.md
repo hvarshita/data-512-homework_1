@@ -44,7 +44,7 @@ We use the PageviewsAPI to extract subsets of data and store the intermediate da
 
 ## Results 
 ![Minimum and Maximum average](images/min_max_avg.png)
-![Top 10 Peak Page Views](images/min_max_avg.png)
+![Top 10 Peak Page Views](images/top_10_peak_page_views.png)
 ![Fewest Months of Data](images/fewest_months_data.png)
 
 ## Usage
